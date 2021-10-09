@@ -1,0 +1,11 @@
+Brief Summary of Observations
+
+When looking at math and reading scores by grade it appears that there is no appreciable difference across grades.
+
+If you look at per student budget, it initially appears that there is an inverse relationship between spending and 
+performance. This could be misleading. It seems clear when looking at student performance by school type that Charter schools
+out perform District schools by a wide margin while consistently spending less per student. This suggests that Charter 
+schools are more efficient at allocating funds for student performance. However, this may or may not be the case. 
+There could be a lurking variable creating this observation (Charter schools can be more selective of their students 
+possibly) In order to draw a meaningful conclusion about the correlation between spending and student performance, 
+the data should be analyzed independantly for each school type. 
